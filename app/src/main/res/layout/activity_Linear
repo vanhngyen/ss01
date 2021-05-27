@@ -112,7 +112,7 @@
                 android:background="#e9e8e8"
                 android:text="9"
                 android:textSize="40sp"
-                android:textColor="#ffffff"
+                android:textColor="#000"
                 android:layout_marginRight="1dp"
                 android:gravity="center"/>
 
